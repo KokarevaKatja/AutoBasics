@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48ad1788-8e1c-47d5-a651-951a6ce0acf7" name="Changes" comment="" />
+    <list default="true" id="48ad1788-8e1c-47d5-a651-951a6ce0acf7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +59,7 @@
                 <item name="AutoBasics" type="f1a62948:ProjectNode" />
                 <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
                 <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-                <item name="junit:junit:4.13" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
+                <item name="org.junit.jupiter:junit-jupiter:5.8.2" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -68,7 +72,7 @@
                 <item name="AutoBasics" type="f1a62948:ProjectNode" />
                 <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
                 <item name="testRuntimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
-                <item name="junit:junit:4.13" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
+                <item name="org.junit.jupiter:junit-jupiter:5.8.2" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
               </path>
             </expand>
             <select />
@@ -97,7 +101,7 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.shouldCalcRemainIfAmount1000">
+  <component name="RunManager" selected="Gradle.AutoBasics [test]">
     <configuration name="AutoBasics [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -213,9 +217,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.AutoBasics [test]" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldCalcRemainIfAmount1000" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldCalcRemainIfAmount0" />
-        <item itemvalue="Gradle.AutoBasics [test]" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldCalcRemainIfAmount2000" />
         <item itemvalue="Gradle.CashbackHackServiceTest.shouldCalcRemainIfAmount1500" />
       </list>
